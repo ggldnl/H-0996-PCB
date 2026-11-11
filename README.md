@@ -2,7 +2,7 @@
 
 This repository contains all the files necessary to manufacture and assemble the PCB for my hexapod robot.
 
-For a complete overview of the project, refer to the [main H-0996 repository](https://github.com/ggldnl/Hexapod). Additionally, you may want to check out the repository containing the [Hardware](https://github.com/ggldnl/Hexapod-Hardware).
+For a complete overview of the project, refer to the [main H-0996 repository](https://github.com/ggldnl/H-0996). Additionally, you may want to check out the repository containing the [Hardware](https://github.com/ggldnl/H-0996-Hardware).
 
 ## 💡 PCBWay
 
@@ -61,4 +61,4 @@ Approximate cost for sourcing TH components: around 10€ (assorted pack of head
 
 ## 🤝 Contribution
 
-Feel free to raise issues or contribute improvements to this repository. For further information about the project, check out the [main H-0996 repository](https://github.com/ggldnl/Hexapod). Give a ⭐️ to this project if you liked the content.
+Feel free to raise issues or contribute improvements to this repository. For further information about the project, check out the [main H-0996 repository](https://github.com/ggldnl/H-0996). Give a ⭐️ to this project if you liked the content.
